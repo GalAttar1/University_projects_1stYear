@@ -6,6 +6,8 @@
 
 
 * **programing 1**
-
-   9. spaceship battle 
+    
+    7. greedy algoritems 
+    8. colletion framwork & genaric collections 
+    9. spaceship battle 
  
